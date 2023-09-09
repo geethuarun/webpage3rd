@@ -1,0 +1,28 @@
+:root{
+    --black:#000000;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:var(--black);
+}
+
+.nav-item a{
+    color: white;
+    margin-left: 10px;
+}
+.navbar-brand img{
+    width: 50px;
+    /* height: 1%; */
+}
+.navbg{
+    color:var(--black);
+}
+.profile{
+    width: 80%;
+    height: 400px;
+}
+.card{
+    background-color: var(--black);
+}
